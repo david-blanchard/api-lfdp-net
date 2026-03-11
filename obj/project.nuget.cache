@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "l55VNJrKWEE=",
+  "success": true,
+  "projectFilePath": "/Users/david/Sites/DavidBlanchard/SDK/dotnet/la-foire-des-prix/la-foire-des-prix.csproj",
+  "expectedPackageFiles": [
+    "/Users/david/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0/microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "/Users/david/.nuget/packages/microsoft.entityframeworkcore/8.0.6/microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
+    "/Users/david/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.6/microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",
+    "/Users/david/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.6/microsoft.entityframeworkcore.analyzers.8.0.6.nupkg.sha512",
+    "/Users/david/.nuget/packages/microsoft.entityframeworkcore.inmemory/8.0.6/microsoft.entityframeworkcore.inmemory.8.0.6.nupkg.sha512",
+    "/Users/david/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
