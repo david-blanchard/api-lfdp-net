@@ -1,7 +1,7 @@
-using la_foire_des_prix.Entities;
+using LaFoireDesPrix.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace la_foire_des_prix.Data;
+namespace LaFoireDesPrix.Data;
 
 public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(options)
 {

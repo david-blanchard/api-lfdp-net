@@ -1,7 +1,7 @@
 using System.Linq.Expressions;
-using la_foire_des_prix.Dtos;
+using LaFoireDesPrix.Dtos;
 
-namespace la_foire_des_prix.Extensions;
+namespace LaFoireDesPrix.Extensions;
 
 public static class QueryableExtensions
 {

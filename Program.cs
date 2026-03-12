@@ -1,5 +1,5 @@
-using la_foire_des_prix.Data;
-using la_foire_des_prix.Endpoints;
+using LaFoireDesPrix.Data;
+using LaFoireDesPrix.Endpoints;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

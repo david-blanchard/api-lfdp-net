@@ -1,4 +1,4 @@
-namespace la_foire_des_prix.Dtos;
+namespace LaFoireDesPrix.Dtos;
 
 public record PaginationMeta(int Page, int PageSize, int TotalItems, int TotalPages)
 {

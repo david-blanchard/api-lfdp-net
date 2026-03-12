@@ -1,6 +1,6 @@
-using la_foire_des_prix.Entities;
+using LaFoireDesPrix.Entities;
 
-namespace la_foire_des_prix.Filters;
+namespace LaFoireDesPrix.Filters;
 
 public class ProductFilter : IResourceFilter<Product>
 {

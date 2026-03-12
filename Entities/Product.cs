@@ -1,4 +1,4 @@
-namespace la_foire_des_prix.Entities;
+namespace LaFoireDesPrix.Entities;
 
 public class Product
 {

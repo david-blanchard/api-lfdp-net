@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
-using la_foire_des_prix.Entities;
+using LaFoireDesPrix.Entities;
 
-namespace la_foire_des_prix.Dtos;
+namespace LaFoireDesPrix.Dtos;
 
 public record ProductInput
 {

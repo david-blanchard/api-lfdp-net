@@ -1,15 +1,15 @@
 using System.ComponentModel.DataAnnotations;
 using System.Linq.Expressions;
-using la_foire_des_prix.Data;
-using la_foire_des_prix.Dtos;
-using la_foire_des_prix.Entities;
-using la_foire_des_prix.Extensions;
-using la_foire_des_prix.Filters;
+using LaFoireDesPrix.Data;
+using LaFoireDesPrix.Dtos;
+using LaFoireDesPrix.Entities;
+using LaFoireDesPrix.Extensions;
+using LaFoireDesPrix.Filters;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace la_foire_des_prix.Endpoints;
+namespace LaFoireDesPrix.Endpoints;
 
 public static class ProductEndpoints
 {

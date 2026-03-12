@@ -1,4 +1,4 @@
-namespace la_foire_des_prix.Dtos;
+namespace LaFoireDesPrix.Dtos;
 
 public class PaginationQuery
 {

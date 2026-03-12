@@ -1,4 +1,4 @@
-namespace la_foire_des_prix.Filters;
+namespace LaFoireDesPrix.Filters;
 
 public interface IResourceFilter<TEntity>
 {
